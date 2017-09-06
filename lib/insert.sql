@@ -25,19 +25,19 @@ INSERT INTO subgenres (name) VALUES ("Historical Fiction");
 INSERT INTO authors (name) VALUES ("J.K. Rowling");
 INSERT INTO authors (name) VALUES ("J.R.R. Tolkien");
 
-INSERT INTO character_books (book_id, character_id) VALUES (1, 1)
-INSERT INTO character_books (book_id, character_id) VALUES (2, 1)
-INSERT INTO character_books (book_id, character_id) VALUES (3, 1)
-INSERT INTO character_books (book_id, character_id) VALUES (1, 2)
-INSERT INTO character_books (book_id, character_id) VALUES (2, 2)
-INSERT INTO character_books (book_id, character_id) VALUES (3, 2)
-INSERT INTO character_books (book_id, character_id) VALUES (1, 3)
-INSERT INTO character_books (book_id, character_id) VALUES (2, 3)
-INSERT INTO character_books (book_id, character_id) VALUES (3, 3)
-INSERT INTO character_books (book_id, character_id) VALUES (3, 4)
-INSERT INTO character_books (book_id, character_id) VALUES (4, 5)
-INSERT INTO character_books (book_id, character_id) VALUES (4, 6)
-INSERT INTO character_books (book_id, character_id) VALUES (4, 7)
-INSERT INTO character_books (book_id, character_id) VALUES (4, 8)
-INSERT INTO character_books (book_id, character_id) VALUES (5, 5)
-INSERT INTO character_books (book_id, character_id) VALUES (5, 6)
+INSERT INTO character_books (book_id, character_id) VALUES (1, 1);
+INSERT INTO character_books (book_id, character_id) VALUES (2, 1);
+INSERT INTO character_books (book_id, character_id) VALUES (3, 1);
+INSERT INTO character_books (book_id, character_id) VALUES (1, 2);
+INSERT INTO character_books (book_id, character_id) VALUES (2, 2);
+INSERT INTO character_books (book_id, character_id) VALUES (3, 2);
+INSERT INTO character_books (book_id, character_id) VALUES (1, 3);
+INSERT INTO character_books (book_id, character_id) VALUES (2, 3);
+INSERT INTO character_books (book_id, character_id) VALUES (3, 3);
+INSERT INTO character_books (book_id, character_id) VALUES (3, 4);
+INSERT INTO character_books (book_id, character_id) VALUES (4, 5);
+INSERT INTO character_books (book_id, character_id) VALUES (4, 6);
+INSERT INTO character_books (book_id, character_id) VALUES (4, 7);
+INSERT INTO character_books (book_id, character_id) VALUES (4, 8);
+INSERT INTO character_books (book_id, character_id) VALUES (5, 5);
+INSERT INTO character_books (book_id, character_id) VALUES (5, 6);
