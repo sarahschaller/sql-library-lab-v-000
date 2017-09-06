@@ -22,7 +22,7 @@ INSERT INTO subgenres (name) VALUES ("Historical Fiction")
 
 INSERT INTO authors (name) VALUES ("J.K. Rowling")
 INSERT INTO authors (name) VALUES ("J.R.R. Tolkien")
--- 
+--
 -- INSERT INTO character_books (book_id, character_id) VALUES ()
 -- INSERT INTO character_books (book_id, character_id) VALUES ()
 -- INSERT INTO character_books (book_id, character_id) VALUES ()
